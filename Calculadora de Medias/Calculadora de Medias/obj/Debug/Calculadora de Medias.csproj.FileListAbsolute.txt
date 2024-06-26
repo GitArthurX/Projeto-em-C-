@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\bin\Debug\Calculadora de Medias.exe.config
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\bin\Debug\Calculadora de Medias.exe
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\bin\Debug\Calculadora de Medias.pdb
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora de Medias.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora_de_Medias.Form1.resources
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora_de_Medias.Properties.Resources.resources
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora de Medias.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora de Medias.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora de Medias.exe
+C:\Users\arthu\source\repos\Calculadora de Medias\Calculadora de Medias\obj\Debug\Calculadora de Medias.pdb
